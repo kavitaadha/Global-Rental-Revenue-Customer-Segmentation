@@ -1,3 +1,4 @@
+![Customer Insights Dashboard Preview](./assets/Dashboard.png)
 
 
 <h1 align="center">Customer Insights: Revenue, Rentals & Content Preferences</h1>
